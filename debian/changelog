@@ -1,0 +1,12 @@
+simple-keylog (0.0.1-5) bionic; urgency=low
+
+  * Fixed Makefile and some other files that gave warnings during build
+    Process.
+
+ -- Cult of Dead Beef <cultofdeadbeef@mail.ru>  Sun, 18 Nov 2018 16:38:46 -0800
+
+simple-keylog (0.0.1-3) bionic; urgency=low
+
+  * Initial release 
+
+ -- Cult of Dead Beef <cultofdeadbeef@mail.ru>  Sun, 19 Nov 2018 11:37:59 -0700

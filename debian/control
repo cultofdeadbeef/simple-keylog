@@ -1,0 +1,18 @@
+Source: simple-keylog
+Section: admin
+Priority: optional
+Maintainer: Cult of Dead Beef <cultofdeadbeef@mail.ru>
+Build-Depends: debhelper (>=11~)
+Standards-Version: 4.1.4
+
+Package: simple-keylog
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Section: admin
+Priority: optional
+Description: A simple keylogger
+ This is a keylogger that will record keystrokes. This
+ is a security hazard! Do not use this package unless
+ you REALLY know what you are doing. 
+ This package is for testing purposes. DO NOT USE IT
+ FOR ANYTHING ILLEGAL!
